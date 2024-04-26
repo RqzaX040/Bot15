@@ -1,0 +1,152 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "version": "17.0.0",
+    "notiGroup": false,
+    "NOTIFICATION": false,
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": false,
+    "iconUnsend": {
+        "status": true,
+        "icon": "❤"
+    },
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 7759985.534506622,
+    "autoRestart": 0,
+    "commandDisabled": [
+        "tagadmin.js",
+        "autoweather.js",
+        "autodown.js",
+        "duyetbox.js",
+        "autosend.js",
+        "ngôn.js",
+        "vdsex.js",
+        "nude.js",
+        "cu.js",
+        "callad.js",
+        "hiepdam.js",
+        "resend.js",
+        "checknude.js",
+        "bank.js"
+    ],
+    "eventDisabled": [
+        "antibdbot.js",
+        "rule.js"
+    ],
+    "configApi": {
+        "domain": "https://api.blacksky04.repl.co"
+    },
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Bot R1zaX v17",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100013942628281",
+        "100013375203759",
+        "100061681069898",
+        "100086031679330",
+        "61550013776963",
+        "100079200183592",
+        "100033905018814",
+        "100025171613782",
+        "506971896",
+        "100089803541870",
+        "61550822815922",
+        "100064707248419",
+        "100090259541893",
+        "100042562666025",
+        "100090914547081",
+        "100083170162035",
+        "100070269368307",
+        "100089438476334",
+        "100077270340375",
+        "100064016989815",
+        "100074015426545",
+        "100065095141252"
+    ],
+    "NDH": [
+        "100083708986199",
+        "100053940401056",
+        "100094304764085",
+        "100065323036053",
+        "100089438476334"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "2.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false
+    },
+    "antinamebot": {
+        "status": true
+    },
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 50000
+    },
+    "fb": {
+        "API_KEY": "FI6bX3kC"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 220
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "poke": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sub": {
+        "APIKEY": ""
+    },
+    "work": {
+        "cooldownTime": 150000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": "",
+        "sendNoti": true,
+        "timeToUnsend": 20
+    },
+    "log": {
+        "enable": true
+    },
+    "noti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    }
+}
